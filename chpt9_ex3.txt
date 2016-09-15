@@ -1,0 +1,4 @@
+What is exception handling and what problem does it solve?
+
+It is a way of dealing with an error if it occurs in the code.
+The problem it solves is that if a section of the code is bad it wont stop the whole thing from running.
